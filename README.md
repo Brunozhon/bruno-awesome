@@ -1,2 +1,2 @@
-# bruno-awesome
+# Bruno Awesome
 Bruno Awesome!
