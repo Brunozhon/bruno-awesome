@@ -7,3 +7,5 @@ Bruno Awesome is a (dynamic) icon set with everday animated icons.
 [Download this release - v0.1.1](releases/0.1.1/bruno-awesome-0.1.1.zip)
 
 [English](en/)
+
+[Source files](dist/view/0.x/all.css/)
